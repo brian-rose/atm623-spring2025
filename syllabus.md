@@ -114,6 +114,10 @@ Here are links to various helpful resources for this course.
 
 This is an active-learning class, and a significant portion of the course grade is given for class participation. You are expected to attend all lectures and participate fully in class discussions and exercises. Any absence should be discussed with Prof. Rose _in advance_ whenever possible. 
 
+You are also expected to cover any assigned readings **before** we cover the material in class. In some cases the assigned readings will include small embeded programming exercises. These are not graded, but my expectation is that you will _attempt_ all such exercises before coming to class, and be prepared to discuss them (including any difficulties or misunderstandings) during class. Being well prepared for class is an important part of earning your participation grade.
+
+Reading and homework assignments will be clearly noted on the [schedule page](https://brian-rose.github.io/atm623-spring2025/schedule) of the class website.
+
 ### Assignments
 
 Much of the course will consist of hands-on computing exercises using the Python language. I will provide code to get us started on each problem. Students will have access via a web browser to a JupyterHub environment for the course, or may optionally maintain a custom Python environment on their own computer.
