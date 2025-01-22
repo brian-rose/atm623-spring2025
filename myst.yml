@@ -14,11 +14,13 @@ project:
   copyright: '2025'
   toc:
     - file: home.md
-    - title: Course materials
-      children:
-        - file: schedule.md
-        - file: syllabus.md
-    - title: Content
+    - file: syllabus.md
+    - file: schedule.md
+    # - title: Course materials
+    #   children:
+    #     - file: schedule.md
+    #     - file: syllabus.md
+    # - title: Content
       # children:
       #   - file: notebooks/composition-structure.ipynb
       #   - file: notebooks/thermo-systems.ipynb
