@@ -1,0 +1,9 @@
+name: atm623
+channels:
+  - conda-forge
+dependencies:
+  - python<3.12
+  - mystmd
+  - jupyterlab
+  - pandoc
+  - nbconvert

@@ -1,0 +1,41 @@
+version: 1
+project:
+  title: "ATM 623: Climate Modeling"
+  github: https://github.com/brian-rose/atm623-spring2025
+  jupyter:
+    binder:
+      url: https://binder.projectpythia.org/
+      repo: brian-rose/atm623-spring2025
+      ref: main
+      provider: github
+
+  authors:
+    - name: Brian E. J. Rose
+  copyright: '2025'
+  toc:
+    - file: home.md
+    - title: Course materials
+      children:
+        - file: schedule.md
+        - file: syllabus.md
+    - title: Content
+      # children:
+      #   - file: notebooks/composition-structure.ipynb
+      #   - file: notebooks/thermo-systems.ipynb
+      #   - file: notebooks/physical-properties.ipynb
+      #   - file: notebooks/pressure.ipynb
+      #   - file: notebooks/first-law.ipynb
+      #   - file: notebooks/second-law.ipynb
+      #   - file: notebooks/moist-processes.ipynb
+      #   - file: notebooks/stability.ipynb
+    - title: Assignments
+      children:
+        # - file: assignments/assignment1.ipynb
+        # - file: assignments/assignment2.md
+        # - file: assignments/assignment3.md
+        # - file: assignments/assignment4.ipynb
+        # - file: assignments/assignment5.ipynb
+        # - file: assignments/assignment6.ipynb
+        # - file: assignments/assignment7.ipynb
+site:
+  template: book-theme
