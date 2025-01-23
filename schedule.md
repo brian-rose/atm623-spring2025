@@ -23,7 +23,7 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
 * - 1/27
   - 1
   - The Zero-dimensional Energy Balance Model
-  - Reading: [Climate models, the global energy budget, and Fun with Python](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/models-budgets-fun.html), 
+  - Reading: [Climate models, the global energy budget, and Fun with Python](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/models-budgets-fun.html), and [Modeling the global energy budget](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/zero-dim-ebm.html).
 * - 1/29
   - 2
   - Climate Sensitivity and Feedback
