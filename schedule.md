@@ -6,7 +6,7 @@ Here you can find the subject matter and assigned reading for every class day as
 
 The class meets **every Monday, Wednesday 1:10 - 2:30 PM** in **ETEC 482**.
 
-Much of the course content is accessible from [The Climate Laboratory](https://brian-rose.github.io/ClimateLaboratoryBook/).
+Much of the course content is accessible from [The Climate Laboratory](https://brian-rose.github.io/ClimateLaboratoryBook/). Note that assigned readings should be completed *before class* so you are ready to discuss the material.
 
 ```{list-table} Class schedule
 :header-rows: 1
@@ -19,23 +19,23 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
 * - 1/22
   - 0
   - Course overview and introductions
-  -
+  - Reading: [the course syllabus](syllabus)
 * - 1/27
   - 1
-  - 
-  - 
+  - The Zero-dimensional Energy Balance Model
+  - Reading: [Climate models, the global energy budget, and Fun with Python](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/models-budgets-fun.html), 
 * - 1/29
   - 2
-  - 
-  - 
+  - Climate Sensitivity and Feedback
+  - Reading: [these notes on sensitivty and feedback](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/advanced-sensitivity-feedback.html). See also [these more polished notes](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/sensitivity-feedback.html) but we will come back to the single-column Radiative-Convective modeling later.
 * - 2/3
   - 3
-  - 
-  - 
+  - The Climate System and a taxonomy of models
+  - Reading: [The climate system and climate models](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/climate-system-models.html)
 * - 2/5
   - 4
-  - 
-  - 
+  - CESM simulations of transient and equilibrium warming
+  - Reading: [Introducing the CESM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/introducing-cesm.html), [Examining the transient and equilibrium CO2 response in the CESM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/transient-cesm.html)
 * - 2/10
   - 5
   - 
