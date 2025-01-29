@@ -27,7 +27,8 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
 * - 1/29
   - 2
   - Climate Sensitivity and Feedback
-  - Reading: [these notes on sensitivty and feedback](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/advanced-sensitivity-feedback.html). See also [these more polished notes](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/sensitivity-feedback.html) but we will come back to the single-column Radiative-Convective modeling later.
+  - Reading: [these notes on sensitivty and feedback](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/advanced-sensitivity-feedback.html). See also [these more polished notes](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/sensitivity-feedback.html) but we will come back to the single-column Radiative-Convective modeling later. \
+  [Assignment 1](assignments/assignment-feedbacks-zero-dim-ebm) handed out.
 * - 2/3
   - 3
   - The Climate System and a taxonomy of models
@@ -35,7 +36,8 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
 * - 2/5
   - 4
   - CESM simulations of transient and equilibrium warming
-  - Reading: [Introducing the CESM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/introducing-cesm.html), [Examining the transient and equilibrium CO2 response in the CESM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/transient-cesm.html)
+  - Reading: [Introducing the CESM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/introducing-cesm.html), [Examining the transient and equilibrium CO2 response in the CESM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/transient-cesm.html). \
+  [Assignment 1](assignments/assignment-feedbacks-zero-dim-ebm) due.
 * - 2/10
   - 5
   - 

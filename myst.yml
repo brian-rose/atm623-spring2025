@@ -32,7 +32,7 @@ project:
       #   - file: notebooks/stability.ipynb
     - title: Assignments
       children:
-        # - file: assignments/assignment1.ipynb
+        - file: assignments/assignment-feedbacks-zero-dim-ebm.ipynb
         # - file: assignments/assignment2.md
         # - file: assignments/assignment3.md
         # - file: assignments/assignment4.ipynb
