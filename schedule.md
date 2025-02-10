@@ -35,13 +35,14 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
   - Reading: [The climate system and climate models](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/climate-system-models.html)
 * - 2/5
   - 4
-  - CESM simulations of transient and equilibrium warming
-  - Reading: [Introducing the CESM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/introducing-cesm.html), [Examining the transient and equilibrium CO2 response in the CESM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/transient-cesm.html). \
+  - Introducing the CESM
+  - Reading: [Introducing the CESM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/introducing-cesm.html). \
   [Assignment 1](assignments/assignment-feedbacks-zero-dim-ebm) due.
 * - 2/10
   - 5
-  - 
-  - 
+  - CESM simulations of transient and equilibrium warming
+  - Reading: [Examining the transient and equilibrium CO2 response in the CESM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/transient-cesm.html) \
+  [Assignment 2](assignments/assignment-cesm-energy-budget) handed out.
 * - 2/12
   - 6
   - 
@@ -49,7 +50,7 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
 * - 2/17
   - 7
   - 
-  - 
+  - [Assignment 2](assignments/assignment-cesm-energy-budget) due.
 * - 2/19
   - 8
   - 
