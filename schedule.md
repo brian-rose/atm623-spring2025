@@ -49,7 +49,7 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
   - Reading: [A Brief Review of Radiation](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/radiation.html)
 * - 2/17
   - 7
-  - Elementary greenhouse models (pre-recorded lecture)
+  - Elementary greenhouse models _(pre-recorded lecture)_
   - Reading: [Elementary greenhouse models](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/elementary-greenhouse.html) \
   [Advanced topic: Solving the two-layer grey gas model analytically with sympy](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/sympy-greenhouse.html) \
   [Assignment 3](assignments/assignment-grey-column) handed out.
