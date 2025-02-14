@@ -50,7 +50,9 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
 * - 2/17
   - 7
   - Elementary greenhouse models (pre-recorded lecture)
-  - Reading: [Elementary greenhouse models](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/elementary-greenhouse.html) \ [Advanced topic: Solving the two-layer grey gas model analytically with sympy](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/sympy-greenhouse.html) \ [Assignment 3](assignments/assignment-grey-column) handed out.
+  - Reading: [Elementary greenhouse models](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/elementary-greenhouse.html) \ 
+  [Advanced topic: Solving the two-layer grey gas model analytically with sympy](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/sympy-greenhouse.html) \ 
+  [Assignment 3](assignments/assignment-grey-column) handed out.
 * - 2/19
   - 8
   - **Class canceled, work on homework and reading**
@@ -62,7 +64,8 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
 * - 2/26
   - 10
   - Radiative-Convective Equilibrium
-  - Reading: [Radiative-Convective Equilibrium](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/rce.html) \ [Assignment 3](assignments/assignment-grey-column) due.
+  - Reading: [Radiative-Convective Equilibrium](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/rce.html) \ 
+  [Assignment 3](assignments/assignment-grey-column) due.
 * - 3/3
   - 11
   - 
