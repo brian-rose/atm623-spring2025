@@ -20,8 +20,9 @@ project:
     #   children:
     #     - file: schedule.md
     #     - file: syllabus.md
-    # - title: Content
-      # children:
+    - title: Content
+      children:
+        - file: SCM.ipynb
       #   - file: notebooks/composition-structure.ipynb
       #   - file: notebooks/thermo-systems.ipynb
       #   - file: notebooks/physical-properties.ipynb
