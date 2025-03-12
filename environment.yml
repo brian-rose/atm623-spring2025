@@ -2,8 +2,13 @@ name: atm623
 channels:
   - conda-forge
 dependencies:
-  - python<3.12
+  - python
   - mystmd
   - jupyterlab
   - pandoc
   - nbconvert
+  - numpy
+  - matplotlib
+  - climlab
+  - xarray
+  - metpy
