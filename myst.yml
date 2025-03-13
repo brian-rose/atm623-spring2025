@@ -22,6 +22,7 @@ project:
     #     - file: syllabus.md
     - title: Content
       children:
+        - file: past-papers.md
         - file: SCM.ipynb
       #   - file: notebooks/composition-structure.ipynb
       #   - file: notebooks/thermo-systems.ipynb
