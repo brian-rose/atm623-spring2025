@@ -105,7 +105,7 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
 * - 4/2
   - 18
   - 
-  -
+  - [Assignment 4](assignments/assignment-orbital-integrated) handed out.
 * - 4/7
   - 19
   - 
@@ -113,7 +113,7 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
 * - 4/9
   - 20
   -
-  -
+  - [Assignment 4](assignments/assignment-orbital-integrated) due.
 * - 4/14
   - 21
   - 

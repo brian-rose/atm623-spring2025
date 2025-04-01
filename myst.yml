@@ -16,30 +16,15 @@ project:
     - file: home.md
     - file: syllabus.md
     - file: schedule.md
-    # - title: Course materials
-    #   children:
-    #     - file: schedule.md
-    #     - file: syllabus.md
     - title: Content
       children:
         - file: past-papers.md
         - file: SCM.ipynb
-      #   - file: notebooks/composition-structure.ipynb
-      #   - file: notebooks/thermo-systems.ipynb
-      #   - file: notebooks/physical-properties.ipynb
-      #   - file: notebooks/pressure.ipynb
-      #   - file: notebooks/first-law.ipynb
-      #   - file: notebooks/second-law.ipynb
-      #   - file: notebooks/moist-processes.ipynb
-      #   - file: notebooks/stability.ipynb
     - title: Assignments
       children:
         - file: assignments/assignment-feedbacks-zero-dim-ebm.ipynb
         - file: assignments/assignment-cesm-energy-budget.ipynb
         - file: assignments/assignment-grey-column.ipynb
-        # - file: assignments/assignment4.ipynb
-        # - file: assignments/assignment5.ipynb
-        # - file: assignments/assignment6.ipynb
-        # - file: assignments/assignment7.ipynb
+        - file: assignments/assignment-orbital-integrated.ipynb
 site:
   template: book-theme
