@@ -92,19 +92,19 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
   - **NO CLASS (spring break)**
 * - 3/24
   - 15
-  - 
-  -
+  - Lapse rate feedback
+  - Reading: [Unfinished notes on vertical structure of warming](SCM)
 * - 3/26
   - 16
-  -
-  -
+  - Insolation
+  - Reading: [Insolation](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/insolation.html)
 * - 3/31
   - 17
-  - 
-  -
+  - Orbital variations
+  - Reading: [Orbital variations, insolation, and the ice ages](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/orbital.html)
 * - 4/2
   - 18
-  -
+  - 
   -
 * - 4/7
   - 19
