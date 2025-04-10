@@ -104,17 +104,18 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
   - Reading: [Orbital variations, insolation, and the ice ages](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/orbital.html)
 * - 4/2
   - 18
-  - Heat transport
-  - Reading: [Heat transport](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/heat-transport.html) and [Earth's Radiation Budget](https://brian-rose.github.io/general-circulation/lectures/radiation-budget.html) (excerpt from General Circulation notes) \
+  - Orbital variations (continued) plus Earth's radiation budget from CERES
+  - Reading: [Orbital variations, insolation, and the ice ages](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/orbital.html) and [Earth's Radiation Budget](https://brian-rose.github.io/general-circulation/lectures/radiation-budget.html) (excerpt from General Circulation notes) \
   [Assignment 4](assignments/assignment-orbital-integrated) handed out.
 * - 4/7
   - 19
-  - 
-  -
+  - Meridional heat transport
+  - Reading: [Heat transport](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/heat-transport.html)
 * - 4/9
   - 20
-  -
-  - [Assignment 4](assignments/assignment-orbital-integrated) due.
+  - Decompositions of the meridional heat transport.
+  - Reading: [Heat transport decomposition](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/advanced-heat-transport.html). \
+  [Assignment 4](assignments/assignment-orbital-integrated) due.
 * - 4/14
   - 21
   - 
