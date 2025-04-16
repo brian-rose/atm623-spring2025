@@ -118,12 +118,12 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
   [Assignment 4](assignments/assignment-orbital-integrated) due.
 * - 4/14
   - 21
-  - 
-  -
+  - Diffusive heat transport parameterization and the 1D EBM
+  - Reading: [The one-dimensional energy balance model](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/one-dim-ebm.html)
 * - 4/16
   - 22
-  -
-  -
+  - Parameter tuning in the EBM and the seasonal cycle of temperature
+  - Reading: [Modeling the seasonal cycle of surface temperature](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/seasonal-cycle.html)
 * - 4/21
   - 23
   - 
