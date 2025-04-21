@@ -126,8 +126,8 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
   - Reading: [Modeling the seasonal cycle of surface temperature](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/seasonal-cycle.html)
 * - 4/21
   - 23
-  - 
-  -
+  - Albedo feedback, polar amplification, and Snowball Earth in the EBM
+  - Reading: [Ice albedo feedback in the EBM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/advanced-albedo-feedback.html) and [Snowball Earth and Large Ice Cap Instability in the EBM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/advanced-snowball-earth.html)
 * - 4/23
   - 24
   -
@@ -138,11 +138,11 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
   -
 * - 4/30
   - 26
-  -
-  - **SHOWCASE DAY**
+  - Class presentations, Day 1
+  - 
 * - 5/5
   - 27
-  - 
+  - Class presentations, Day 2
   - **LAST CLASS**
 * - 5/9
   - \-
