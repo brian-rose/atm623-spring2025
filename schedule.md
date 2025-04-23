@@ -130,11 +130,11 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
   - Reading: [Ice albedo feedback in the EBM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/advanced-albedo-feedback.html) and [Snowball Earth and Large Ice Cap Instability in the EBM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/advanced-snowball-earth.html)
 * - 4/23
   - 24
-  -
-  -
+  - Surface energy budgets, evaporation, and water in the climate system
+  - Reading: [The surface energy balance](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/surface-energy-balance.html) and [Water, water everywhere!](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/water-water-everywhere.html)
 * - 4/28
   - 25
-  - 
+  - Wrap up
   -
 * - 4/30
   - 26
@@ -149,5 +149,3 @@ Much of the course content is accessible from [The Climate Laboratory](https://b
   - 
   - **Final projects due**
 ```
-
-**FINAL EXAM** Tuesday December 17 1:00 pm - 3:00 pm (per the [University exam calendar](https://livealbany.sharepoint.com/sites/web_registrar/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fweb%5Fregistrar%2FShared%20Documents%2FFinal%20Exams%2FFall%202024%20Final%20Exam%20Schedule%20for%20Web%2Epdf&parent=%2Fsites%2Fweb%5Fregistrar%2FShared%20Documents%2FFinal%20Exams&p=true&ga=1)
